@@ -8,7 +8,7 @@
   },
   "Comment": {
     "body": "string",
-    "post": "Post"
+    "post": "quoteInsurance"
   },
   "quoteInsurance": {
     "codRes": "00",
