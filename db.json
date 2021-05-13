@@ -1,0 +1,43 @@
+{
+  "quoteInsurance": {
+    "codRes": "00",
+    "response": {
+      "nombre": "Rodrigo",
+      "codigoProspecto": 290345,
+      "minimumAmount": 12500,
+      "maximumAmount": 16500
+    }
+  },
+  "vehicleYears": {
+    "codRes": "00",
+    "response": [
+      2021,
+      2020,
+      2019,
+      2018,
+      2017,
+      2016
+    ]
+  },
+  "vehicleBrands": {
+    "codRes": "00",
+    "response": [
+      {
+        "id": 1,
+        "name": "BMW"
+      },
+      {
+        "id": 2,
+        "name": "Wolkswagen"
+      },
+      {
+        "id": 3,
+        "name": "Audi"
+      },
+      {
+        "id": 4,
+        "name": "Renault"
+      }
+    ]
+  }
+}
