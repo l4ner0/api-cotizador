@@ -41,15 +41,15 @@
     ]
   },
   "recordData": {
-    codRes: "00",
-        response: {
-            codigoProspecto: 290345
+    "codRes": "00",
+        "response": {
+            "codigoProspecto": 290345
         }
   },
   "recordCoberturas": {
-    codRes: "00",
-        response: {
-            codigoProspecto: 290345
+    "codRes": "00",
+        "response": {
+            "codigoProspecto": 290345
         }
   }
 }
